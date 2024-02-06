@@ -4,6 +4,6 @@
 
 </div>
 
-RSoftworks is a software development group based in Bucharest, Romania.
+RSoftworks is a software development community focused on creating free and open source applications for everyone.
 
-Optimal Implementation.
+Optimal Implementation
