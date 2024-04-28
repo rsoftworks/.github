@@ -1,9 +1,7 @@
 <div align="center">
 
-![RSoftworks Banner](/images/Banner.png)
+![RSoftworks Banner](/images/fuckyougithub.png)
 
 </div>
 
-RSoftworks is a software development community focused on creating free and open source applications for everyone.
-
-Optimal Implementation
+RSoftworks is a small group focused on releasing and maintaining open-source projects, which are usually Roblox-related.
